@@ -1,4 +1,4 @@
-# USB camera video publisher
+# USB camera video publisher ROS Package
 
 This package contains just a ROS launch file intended to be called from a Raspberry Pi 3B.
 
