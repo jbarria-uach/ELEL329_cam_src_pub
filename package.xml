@@ -7,4 +7,5 @@
   <license>BSD</license>
   <author email="jebarria@alumnos.uach.cl">Jorge Barría</author>
   <depend>usb_cam</depend>
+  <build_depend>catkin</build_depend>
 </package>
