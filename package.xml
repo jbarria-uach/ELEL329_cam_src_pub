@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>elel329_cam_src_pub</name>
+  <version>0.0.1</version>
+  <description>ELEL329 ROS assignment camera publishere</description>
+  <maintainer email="jebarria@alumnos.uach.cl">Jorge Barría</maintainer>
+  <license>BSD</license>
+  <author email="jebarria@alumnos.uach.cl">Jorge Barría</author>
+  <depend>usb_cam</depend>
+</package>
