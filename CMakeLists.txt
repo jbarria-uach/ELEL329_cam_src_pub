@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.2)
-project(elel329_ros_jb_cam_src)
+project(elel329_cam_src_pub)
 
 ## Compile as C++11, supported in ROS Kinetic and newer
 # add_compile_options(-std=c++11)
